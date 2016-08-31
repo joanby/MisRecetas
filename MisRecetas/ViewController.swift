@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  MisRecetas
 //
-//  Created by Juan Gabriel Gomila Salas on 6/7/16.
-//  Copyright © 2016 Juan Gabriel Gomila Salas. All rights reserved.
+//  Created by Juan Gabriel Gomila Salas on 31/8/16.
+//  Copyright © 2016 Juan Gabriel Gomila Salas. All rights reserved...
 //
 
 import UIKit
